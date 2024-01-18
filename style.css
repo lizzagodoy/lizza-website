@@ -1,0 +1,17 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+    background-color: gray;
+}
+
+p {
+    color: powderblue;
+    font-weight: bold;
+}
+
+#para1 {
+    color: red;
+}
+.class1 {
+    color:black;
+}
+
